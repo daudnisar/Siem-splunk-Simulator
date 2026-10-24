@@ -1,0 +1,7 @@
+{
+  "name": "Splunk & SIEM SOC Attack Simulator",
+  "description": "Enterprise-grade SIEM and Splunk simulator for practicing real-world log monitoring, threat hunting, SPL querying, and MITRE ATT&CK incident investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
